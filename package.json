@@ -1,16 +1,22 @@
 {
   "name": "safescript-express",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "Express middleware for SafeScript .safe route handlers",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["safescript", "express", "middleware", "sandbox", "safe"],
+  "keywords": [
+    "safescript",
+    "express",
+    "middleware",
+    "sandbox",
+    "safe"
+  ],
   "author": "Gregory Magarshak",
   "license": "MIT",
   "peerDependencies": {
-    "safescript": ">=0.2.0"
+    "safescript": ">=1.1.0"
   },
   "repository": {
     "type": "git",
